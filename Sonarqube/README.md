@@ -336,3 +336,11 @@ With the steps outlined in this document, you should be able to:
 https://stackoverflow.com/questions/50646519/sonarqube-jenkins-asks-for-login-and-password
 
 https://stackoverflow.com/questions/78471082/jenkins-credentials-for-sonarqube-token-wont-update/79402231#79402231
+
+## Microsoft Entra SSO (Azure AD) integration with SonarQube
+
+https://learn.microsoft.com/en-us/entra/identity/saas-apps/sonarqube-tutorial
+
+https://docs.sonarsource.com/sonarqube-community-build/instance-administration/authentication/saml/ms-entra-id/setup-in-sq/
+
+https://docs.sonarsource.com/sonarqube-community-build/instance-administration/authentication/saml/ms-entra-id/setup-in-entra-id/#related-pages
