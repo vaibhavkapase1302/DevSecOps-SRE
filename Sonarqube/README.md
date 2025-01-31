@@ -334,3 +334,5 @@ With the steps outlined in this document, you should be able to:
 ## how to pass sonar token in pipeline jenkins
 
 https://stackoverflow.com/questions/50646519/sonarqube-jenkins-asks-for-login-and-password
+
+https://stackoverflow.com/questions/78471082/jenkins-credentials-for-sonarqube-token-wont-update/79402231#79402231
