@@ -341,6 +341,8 @@ https://stackoverflow.com/questions/78471082/jenkins-credentials-for-sonarqube-t
 
 https://learn.microsoft.com/en-us/entra/identity/saas-apps/sonarqube-tutorial
 
+https://docs.sonarsource.com/sonarqube-server/latest/instance-administration/authentication/overview/
+
 https://docs.sonarsource.com/sonarqube-community-build/instance-administration/authentication/saml/ms-entra-id/setup-in-sq/
 
 https://docs.sonarsource.com/sonarqube-community-build/instance-administration/authentication/saml/ms-entra-id/setup-in-entra-id/#related-pages
