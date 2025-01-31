@@ -348,3 +348,9 @@ https://docs.sonarsource.com/sonarqube-server/latest/instance-administration/aut
 https://docs.sonarsource.com/sonarqube-community-build/instance-administration/authentication/saml/ms-entra-id/setup-in-sq/
 
 https://docs.sonarsource.com/sonarqube-community-build/instance-administration/authentication/saml/ms-entra-id/setup-in-entra-id/#related-pages
+
+https://community.sonarsource.com/t/saml-sso-authentication/56527/5
+
+**Managing user and group permissions at the system level**
+
+https://docs.sonarsource.com/sonarqube-server/latest/instance-administration/user-management/user-permissions/
