@@ -331,4 +331,6 @@ With the steps outlined in this document, you should be able to:
 4. Take a backup of the database.
 5. Upload the backup to Amazon S3 for safe storage.
 
-Let me know if you need further assistance!
+## how to pass sonar token in pipeline jenkins
+
+https://stackoverflow.com/questions/50646519/sonarqube-jenkins-asks-for-login-and-password
