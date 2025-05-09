@@ -1,4 +1,4 @@
-Code scanning
+Code scanning tool
 
 ### Documentation: **Checking SonarQube Database, Logging in, Configurations, Backup, and S3 Upload**
 
